@@ -1,0 +1,15 @@
+/Character (copy)
+/Character_GOC
+/crop_rotate
+/Data_Character
+/DATA_CNN (copy)
+/Data_Crop_Rotate
+/DATA_RESNET
+/dataset_car
+/dataset_car (copy)
+/QUAN_TRONG
+
+best.pt
+Project_4.docx
+resnet_freeze_81_0.9789081811904907.h5
+yolov5_license_plate_600.pt
